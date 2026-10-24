@@ -59,6 +59,5 @@ Sales display an overall upward trend with seasonal spikes.
 - Focus sales efforts on high-margin products.
 - Retain top-profit customers.
 
-Plain Text
 superstore-sales-analysis/
  
