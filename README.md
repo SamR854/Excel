@@ -1,7 +1,7 @@
 # Superstore Sales Analysis
  
 ## Dataset
-Kaggle Superstore Dataset
+### Kaggle Superstore Dataset
 
 ## Data Cleaning Steps
 ### Tab: Data Audit 
@@ -16,19 +16,18 @@ Kaggle Superstore Dataset
 
 2 Data Validation Checks		
   - Row Count	
-	- Missing Values	
-	- Duplicate Orders	Check if Order ID appears multiple times.
-	- Data Types
-	- Order Date	/ Ship Date
-	- Sales
-	- Profit
-	- Quantity
-	- Discount
+  - Missing Values	
+  - Duplicate Orders	Check if Order ID appears multiple times.
+  - Data Types
+  - Order Date	/ Ship Date
+  - Sales
+  - Profit
+  - Quantity
+  - Discount
 	
 3. Outliers
-  - Questions:	Any sales > $20,000?
-	- Any negative sales?
-	- Questions:	Extremely negative profit? Very large profit?
+  - Questions:	Any sales > $20,000? Any negative sales?
+  - Questions:	Extremely negative profit? Very large profit?
  
 ## Business Questions
  
