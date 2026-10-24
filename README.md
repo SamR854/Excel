@@ -2,7 +2,34 @@
  
 ## Dataset
 Kaggle Superstore Dataset
- 
+
+## Data Cleaning Steps
+### Tab: Data Audit 
+1 Structure Checks	
+	- Convert the dataset into an Excel Table (Ctrl + T)
+	- Check row count:
+	- Total records
+	- Total columns
+	- Verify there is only one header row
+	- Check for blank columns
+	- Check for blank rows
+
+2 Data Validation Checks		
+  - Row Count	
+	- Missing Values	
+	- Duplicate Orders	Check if Order ID appears multiple times.
+	- Data Types
+	- Order Date	/ Ship Date
+	- Sales
+	- Profit
+	- Quantity
+	- Discount
+	
+3. Outliers
+  - Questions:	Any sales > $20,000?
+	- Any negative sales?
+	- Questions:	Extremely negative profit? Very large profit?
+ 
 ## Business Questions
  
 ### Which regions generate the most revenue?
